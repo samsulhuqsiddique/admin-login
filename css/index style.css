@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+}
+
+body{
+    font-family: 'Gupter', serif;
+    background-image: url(../image/tb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+.container{
+     width: 350px;
+     margin: 5% auto;
+}
+.login-section{
+    background: #2ada1552;
+    padding: 25px;
+}
+.login-section img{
+     display: block;
+    margin: 0px auto;
+    padding-bottom: 10px;
+}
+.login-section h2{
+    text-align: center;
+    color: #ffffff;
+    font-size: 34px;
+     margin-top: 25px;
+
+}
+h3{
+
+}
+/*Admin Form*/
+
+.form-control{
+    width: 95%;
+    padding: 8px;
+    margin: 5px;
+    background: white;
+}
+.btn {
+    width: 98%;
+    display: block;
+    padding: 5px 15px;
+    border: none;
+    background-color: #04c70c;
+    color: white;
+    font-size: 18px;
+    margin: 7px;
+    transition: 0.5s ease-in-out;
+    -webkit-transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
+}
+
+.btn:hover {
+box-shadow: 2px 2px 4px #f44336; 
+cursor:pointer; 
+}
+
+.password{
+    width: 90%
+    margin-top: 25px;
+    font-size: 18px; 
+   
+    
+}
+
+a {
+        text-decoration: none;
+    color: black;
+}
+
+/*Admin Panel ends*/

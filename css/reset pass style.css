@@ -1,0 +1,63 @@
+*{
+	margin: 0px;
+	}
+
+body{
+	font-family: 'Gupter', serif;
+	background-image: url(../image/tb.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:white;
+	}
+
+h3 {
+	    text-align: center;
+    font-size: 25px;
+    color:#b6ec0f;
+}
+
+
+h2 {
+	 margin-top: 19px;
+    text-align: center;
+    color: #03f77b;
+}
+
+.cilinder{
+	width: 350px;
+    margin: 30px auto;
+  
+    background: #0880003b;
+}
+.form-design{   
+     width: 90%;
+    margin: 5px 10px;
+    padding: 5px;
+
+}
+
+
+.ttn{
+	width: 90%;
+    margin:17px ;
+    background:#7ea71d;
+    padding: 5px;
+}
+
+.sp{
+	font-size: 10px;
+	font-family: verdana;
+	margin-left: 8px;
+}
+
+p {
+ font-size: 12px;
+    font-family: verdana;
+    margin-left: 10px;
+}
+
+a {
+          color: #01fd20;
+    text-decoration: none;
+    font-size: 18px;
+}
